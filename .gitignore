@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv
+venv*/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+data/*.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/*.log
+*.log
+
+# Exports
+exports/*.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
