@@ -98,3 +98,4 @@ git status
 3. Установить зависимости: `pip install -r requirements.txt`
 4. Запустить бота: `python -m bot.main`
 
+

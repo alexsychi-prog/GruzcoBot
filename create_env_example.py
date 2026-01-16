@@ -22,3 +22,4 @@ with open('.env.example', 'w', encoding='utf-8') as f:
 
 print(".env.example created successfully!")
 
+
